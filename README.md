@@ -1,2 +1,0 @@
-# peak_fisher
-Tool to find MS spectra with peaks of interest using eMZed
